@@ -68,4 +68,7 @@ An Astronomy undergraduate student at Institut Teknologi Bandung (ITB) with stro
   <a href="https://www.instagram.com/ulv.embun/" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a> 
+  <a href="https://www.hackerrank.com/uliviaembun123" target="_blank">
+    <img alt="HackerRank" src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+  </a> 
 </p>

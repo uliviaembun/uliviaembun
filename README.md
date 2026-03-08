@@ -4,8 +4,8 @@
 
 An Astronomy undergraduate student at Institut Teknologi Bandung (ITB) with strong quantitative and analytical background. Experienced in data preprocessing, exploratory data analysis, and basic machine learning on structured datasets using Python and SQL. Familiar with translating data into insights through academic and organizational projects. 
 
-- 🌱 I’m currently learning about Machine Learning and Deep Learning
-- 📫 How to reach me: uliviaembun123@gmail.com
+- I’m currently learning about Machine Learning and Deep Learning
+- How to reach me: uliviaembun123@gmail.com
 
 ### Tech Stack
 
